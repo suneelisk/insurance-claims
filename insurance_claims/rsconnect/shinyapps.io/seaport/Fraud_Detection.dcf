@@ -1,0 +1,13 @@
+name: Fraud_Detection
+title: Fraud_Detection
+username:
+account: seaport
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 625633
+bundleId: 1796918
+url: https://seaport.shinyapps.io/Fraud_Detection/
+when: 1546619961.09653
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|cleaning and splitting.R|codes.txt|Decision tree.R|insurance claim.docx|insurance_claims (1).csv|RANDOM FOREST.R|test_data.csv|test_data.xlsx|train_data.csv
